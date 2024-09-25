@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qinannan2024
 - 👀 I’m interested in coding and game.
-- 🌱 I’m currently learning php.
+- 🌱 I’m currently learning python.
 
 <!---
 qinannan2024/qinannan2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
